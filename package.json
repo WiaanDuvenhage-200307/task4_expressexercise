@@ -1,0 +1,26 @@
+{
+  "name": "task4_expressexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiaanDuvenhage-200307/task4_expressexercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WiaanDuvenhage-200307/task4_expressexercise/issues"
+  },
+  "homepage": "https://github.com/WiaanDuvenhage-200307/task4_expressexercise#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
