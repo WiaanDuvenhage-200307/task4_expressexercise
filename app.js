@@ -46,6 +46,21 @@ app.post('/db/addproduct/:id', (req, res) => {
     res.json(products);
 })
 
+//Delete a product
+app.delete('/db/products/:id', (req, res) => {
+
+    // decoupling
+    const { id } = +req.params;
+
+    const deleted = products.inventory.find(item => item.id === id);
+    if(deleted){
+        products = products.inventory.filter(item => item.id !== id);
+        console.log(deleted);
+    } else {
+        res.status(404).json({msg: 'This does not exist'})
+    }
+})
+
 const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => {console.log(`Server Started on port ${PORT}`)});
