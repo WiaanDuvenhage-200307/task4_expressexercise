@@ -5,8 +5,6 @@ const fs = require('fs');
 
 const app = express();
 
-
-
 app.use(express.json());
 app.use(express.urlencoded({extended:false}));
 
@@ -60,7 +58,6 @@ app.delete('/db/products/:id', (req, res) => {
     const deleted = products.inventory.find(item => item.id === id);
     if(deleted){
         products = products.inventory.filter(item => item.id !== id);
-        console.log(deleted);
     } else {
         res.status(404).json({msg: 'This does not exist'})
     }
@@ -68,11 +65,6 @@ app.delete('/db/products/:id', (req, res) => {
 
 // Update Qty
 app.put('/db/products/:id', (req, res) => {
-    // products.findByIdAndUpdate({id: +req.params.id}, req.body, {new: true})
-    // .then(() => {
-    //     res.send(products);
-    // }) 
-    
     var id = +req.params.id;
 
     var jsonData = fs.readFileSync('products.json');
