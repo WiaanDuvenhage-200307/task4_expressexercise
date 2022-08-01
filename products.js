@@ -1,5 +1,6 @@
-const products = {
-    inventory:[
+// const products = {
+//     inventory:
+[
     {
         id: 0,
         brand: 'Gibson',
@@ -339,7 +340,6 @@ const products = {
         ]       
     },
 
-], 
-};
+]
 
-module.exports = products;
+// module.exports = products;

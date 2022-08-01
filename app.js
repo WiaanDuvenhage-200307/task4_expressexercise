@@ -1,7 +1,10 @@
 const express = require('express');
 const products = require('./products');
 const obj = require('./products');
+const fs = require('fs');
+
 const app = express();
+
 
 
 app.use(express.json());
@@ -9,7 +12,9 @@ app.use(express.urlencoded({extended:false}));
 
 // Get all products
 app.get('/db/products', (req, res) => {
-    res.json(obj);
+    var jsonData = fs.readFileSync('products.json');
+    var data = JSON.parse(jsonData);
+    res.json(data);
 })
 
 // Get one product based on ID
@@ -59,6 +64,25 @@ app.delete('/db/products/:id', (req, res) => {
     } else {
         res.status(404).json({msg: 'This does not exist'})
     }
+})
+
+// Update Qty
+app.put('/db/products/:id', (req, res) => {
+    // products.findByIdAndUpdate({id: +req.params.id}, req.body, {new: true})
+    // .then(() => {
+    //     res.send(products);
+    // }) 
+    
+    var id = +req.params.id;
+
+    var jsonData = fs.readFileSync('products.json');
+    var data = JSON.parse(jsonData);
+
+    data[id]["inStock"] = +req.body.inStock;
+
+    fs.writeFileSync('products.json', (JSON.stringify(data)));
+    res.json(data);
+
 })
 
 const PORT = process.env.PORT || 5000;
