@@ -1,1 +1,237 @@
-[{"id":0,"brand":"Gibson","model":"ES-335","type":"Electric","price":57.606,"inStock":5,"desc":"The Gibson ES-335 DOT is the cornerstone of the Gibson ES line-up. From its inaugural appearance in 1958, the Gibson ES-335 set an unmatched standard. The pearloid dot inlay rosewood fingerboard on a hand-rolled Rounded 'C' mahogany neck remind players where it all started. Gibson's Calibrated T-Type humbucking pickups are paired with our hand-wired control assembly. The result is that versatile Gibson ES tone that players have craved for over 60 years. Tuning stability and precise intonation are provided by the Vintage Deluxe tuners with Keystone buttons, paired with light weight Aluminum ABR-1 bridge and Stop Bar tailpiece, anchored by steel thumb-wheels and tailpiece studs","availStock":[{"neckLength":628.65,"qty":14,"handedness":"left","variations":[{"red":4,"black":4,"brown":6}]},{"neckLength":610,"qty":16,"handedness":"right","variations":[{"red":5,"black":5,"brown":6}]}]},{"id":1,"brand":"Cort","model":"SEG-272VS","type":"Electric","price":4.93,"inStock":14,"desc":"The Classic Rock Series delivers the look, feel and performance of the much sought-after vintage instruments from the Golden Era of electric guitars. At the heart of each CR Series guitar is the specially designed ClassicRocker pickups for an authentic vintage rock sound and response. CR250’s Voiced Tone VTH-59 pickups are using selected Alnico II & 0.06″ custom gauge coils, these PAF inspired pickups capture the essence of vintage","availStock":[{"neckLength":580,"qty":6,"handedness":"left","variations":[{"brown":3,"white":3}]},{"neckLength":580,"qty":8,"handedness":"right","variations":[{"brown":4,"white":4}]}]},{"id":2,"brand":"Charvel","model":"SC1","type":"Electric","price":26.995,"discountPrice":20.221,"inStock":10,"desc":"The Super Stock SC1 comes loaded with plenty of classic Charvel attitude. Its So Cal-style alder body sports a heavy Black Relic finish that looks like it’s been to hell and back. The bolt-on maple neck and pau ferro fingerboard have been distressed for that well-worn baseball glove feel. Graphite-reinforcement rods provide optimal stability for various climate changes, while the heel-mount truss rod adjustment wheel makes for convenient neck relief tweaks. Built for speed, the 12”-16” compound radius fingerboard features comfortable rolled edges, 22 jumbo frets and cream dot inlays","availStock":[{"neckLength":628.65,"qty":3,"handedness":"left","variations":[{"black":3}]},{"neckLength":610,"qty":7,"handedness":"right","variations":[{"black":7}]}]},{"id":3,"brand":"Cort","model":"CR100","type":"Electric","price":6.395,"discountPrice":5.37,"inStock":25,"desc":"The Classic Rock Series delivers the look, feel and performance of the much sought-after vintage instruments from the Golden Era of electric guitars. At the heart of each CR Series guitar is the specially designed ClassicRocker pickups for an authentic vintage rock sound and response","availStock":[{"neckLength":628,"qty":14,"handedness":"left","variations":[{"amber":7,"black":7}]},{"neckLength":628,"qty":14,"handedness":"right","variations":[{"amber":7,"black":7}]}]},{"id":4,"brand":"Ibanez","model":"Talman TMB100MGR","type":"Bass","price":7.899,"discountPrice":4.195,"inStock":5,"desc":"Step up to a value-packed retro-style bass guitar, with the Ibanez TMB-100 Talman Bass! Expect powerful, punchy tone from the poplar body and maple neck, while the jatoba fingerboard with 20 medium frets gives you a solid playing platform. Bass players know how important tonal versatility is, and you’ll be impressed with the TMB-100 Talman Bass’ pair of DXP and DXJ pickups. Custom electronics with 2-band EQ give you even more sound-shaping potential. Whether you’re searching for an easy-playing first bass or just a great deal, you’ll find it in the Ibanez TMB-100 Talman Bass.","availStock":[{"neckLength":864,"qty":2,"handedness":"left","variations":[{"green":1,"black":1,"brown":0}]},{"neckLength":610,"qty":3,"handedness":"right","variations":[{"green":1,"black":1,"brown":1}]}]},{"id":5,"brand":"Yamaha","model":"C45 Classical","type":"Acoustic","price":2.195,"inStock":25,"desc":"The Yamaha C45 is an amazing full-sized nylon-string guitar that’s affordable enough for any guitarist. Whether you’re stepping up from a 3/4-size model or looking for a first classical guitar to start off with, you’ll be pleasantly surprised by the C45. Its full 2″ nut allows you to play with true classical finger techniques – just what you need to develop proper playing method. Featuring a real spruce top, on a back and sides made of quality Meranti, the Yamaha C45 provides you with a clear, resonant voice","availStock":[{"neckLength":628.65,"qty":14,"handedness":"left","variations":[{"red":4,"black":4,"brown":6}]},{"neckLength":610,"qty":16,"handedness":"right","variations":[{"red":5,"black":5,"brown":6}]}]},{"id":6,"brand":"Alvarez","model":"AD60CE","type":"Acoustic","price":12.347,"inStock":12,"desc":"Back in 2010, the AD60 was the model which our then new design team first focused on. It became the benchmark model, a reference in which other brand's and our previous models were measured. The goal and therefore the whole approach of the team was to simply make the best performing entry level guitar available. In tandem with developing our Artist Series, we were also developing bracing systems such as FST2 at the Yairi workshops, and bracing systems we cut there by hand were reproduced by machine for Artist Series in order to create “our sound” throughout our brand","availStock":[{"neckLength":648,"qty":3,"handedness":"left","variations":[{"ivory":1,"brown":2}]},{"neckLength":648,"qty":5,"handedness":"right","variations":[{"ivory":2,"brown":3}]}]},{"id":7,"brand":"Gretsch","model":"G9500 Jim Dandy","type":"Acoustic","price":6.595,"discountPrice":4.615,"inStock":5,"desc":"Faithful to the Gretsch “Rex” parlor guitars of the 1930s, ’40s and ’50s, the all-new G9500 Jim Dandy Flat Top parlor-style model embodies everything that was great about everyone’s first guitar. Everything and then some, that is, because the G9500 is crafted with select guitar woods and is fully lined and braced for warm and pleasing tone, with a 24″ scale for endless hours of playing comfort.","availStock":[{"neckLength":610,"qty":12,"handedness":"left","variations":[{"red":4,"black":4,"brown":4}]},{"neckLength":610,"qty":13,"handedness":"right","variations":[{"red":3,"black":1,"brown":9}]}]},{"id":8,"brand":"Cort","model":"CJ Retro Jumbo","type":"Acoustic-Electric","price":6.995,"discountPrice":4.825,"inStock":17,"desc":"The CJ-Retro is a Jumbo-sized acoustic-electric with a huge sound and a cool retro look. Featuring the classic jumbo body with Spruce top and Mahogany back and sides, Fishman electronics with magnetic humbucker and top-mounted controls, and tasteful retro appointments, the CJ-Retro is the perfect acoustic-electric for musicians looking for a big acoustic sound and a snazzy look.","availStock":[{"neckLength":648,"qty":7,"handedness":"left","variations":[{"amber":7}]},{"neckLength":648,"qty":10,"handedness":"right","variations":[{"amber":10}]}]},{"id":9,"brand":"Caraya","model":"F640CE","type":"Acoustic-Electric","price":2.595,"inStock":30,"desc":"The Caraya F640ce is a traditional dreadnaught body shape with a spruce top, producing fat, warm low end and crisp high end response. An Awesome option for anybody starting to play the acoustic guitar!","availStock":[{"neckLength":628,"qty":14,"handedness":"left","variations":[{"black":10,"brown":4}]},{"neckLength":650,"qty":16,"handedness":"right","variations":[{"black":6,"brown":10}]}]}]
+[
+  {
+    "id": 0,
+    "brand": "Gibson",
+    "model": "ES-335",
+    "type": "Electric",
+    "price": 57.606,
+    "inStock": 5,
+    "desc": "The Gibson ES-335 DOT is the cornerstone of the Gibson ES line-up. From its inaugural appearance in 1958, the Gibson ES-335 set an unmatched standard. The pearloid dot inlay rosewood fingerboard on a hand-rolled Rounded 'C' mahogany neck remind players where it all started. Gibson's Calibrated T-Type humbucking pickups are paired with our hand-wired control assembly. The result is that versatile Gibson ES tone that players have craved for over 60 years. Tuning stability and precise intonation are provided by the Vintage Deluxe tuners with Keystone buttons, paired with light weight Aluminum ABR-1 bridge and Stop Bar tailpiece, anchored by steel thumb-wheels and tailpiece studs",
+    "availStock": [
+      {
+        "neckLength": 628.65,
+        "qty": 14,
+        "handedness": "left",
+        "variations": [{ "red": 4, "black": 4, "brown": 6 }]
+      },
+      {
+        "neckLength": 610,
+        "qty": 16,
+        "handedness": "right",
+        "variations": [{ "red": 5, "black": 5, "brown": 6 }]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "brand": "Cort",
+    "model": "SEG-272VS",
+    "type": "Electric",
+    "price": 4.93,
+    "inStock": 14,
+    "desc": "The Classic Rock Series delivers the look, feel and performance of the much sought-after vintage instruments from the Golden Era of electric guitars. At the heart of each CR Series guitar is the specially designed ClassicRocker pickups for an authentic vintage rock sound and response. CR250’s Voiced Tone VTH-59 pickups are using selected Alnico II & 0.06″ custom gauge coils, these PAF inspired pickups capture the essence of vintage",
+    "availStock": [
+      {
+        "neckLength": 580,
+        "qty": 6,
+        "handedness": "left",
+        "variations": [{ "brown": 3, "white": 3 }]
+      },
+      {
+        "neckLength": 580,
+        "qty": 8,
+        "handedness": "right",
+        "variations": [{ "brown": 4, "white": 4 }]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "Charvel",
+    "model": "SC1",
+    "type": "Electric",
+    "price": 26.995,
+    "discountPrice": 20.221,
+    "inStock": 10,
+    "desc": "The Super Stock SC1 comes loaded with plenty of classic Charvel attitude. Its So Cal-style alder body sports a heavy Black Relic finish that looks like it’s been to hell and back. The bolt-on maple neck and pau ferro fingerboard have been distressed for that well-worn baseball glove feel. Graphite-reinforcement rods provide optimal stability for various climate changes, while the heel-mount truss rod adjustment wheel makes for convenient neck relief tweaks. Built for speed, the 12”-16” compound radius fingerboard features comfortable rolled edges, 22 jumbo frets and cream dot inlays",
+    "availStock": [
+      {
+        "neckLength": 628.65,
+        "qty": 3,
+        "handedness": "left",
+        "variations": [{ "black": 3 }]
+      },
+      {
+        "neckLength": 610,
+        "qty": 7,
+        "handedness": "right",
+        "variations": [{ "black": 7 }]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Cort",
+    "model": "CR100",
+    "type": "Electric",
+    "price": 6.395,
+    "discountPrice": 5.37,
+    "inStock": 25,
+    "desc": "The Classic Rock Series delivers the look, feel and performance of the much sought-after vintage instruments from the Golden Era of electric guitars. At the heart of each CR Series guitar is the specially designed ClassicRocker pickups for an authentic vintage rock sound and response",
+    "availStock": [
+      {
+        "neckLength": 628,
+        "qty": 14,
+        "handedness": "left",
+        "variations": [{ "amber": 7, "black": 7 }]
+      },
+      {
+        "neckLength": 628,
+        "qty": 14,
+        "handedness": "right",
+        "variations": [{ "amber": 7, "black": 7 }]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "brand": "Ibanez",
+    "model": "Talman TMB100MGR",
+    "type": "Bass",
+    "price": 7.899,
+    "discountPrice": 4.195,
+    "inStock": 5,
+    "desc": "Step up to a value-packed retro-style bass guitar, with the Ibanez TMB-100 Talman Bass! Expect powerful, punchy tone from the poplar body and maple neck, while the jatoba fingerboard with 20 medium frets gives you a solid playing platform. Bass players know how important tonal versatility is, and you’ll be impressed with the TMB-100 Talman Bass’ pair of DXP and DXJ pickups. Custom electronics with 2-band EQ give you even more sound-shaping potential. Whether you’re searching for an easy-playing first bass or just a great deal, you’ll find it in the Ibanez TMB-100 Talman Bass.",
+    "availStock": [
+      {
+        "neckLength": 864,
+        "qty": 2,
+        "handedness": "left",
+        "variations": [{ "green": 1, "black": 1, "brown": 0 }]
+      },
+      {
+        "neckLength": 610,
+        "qty": 3,
+        "handedness": "right",
+        "variations": [{ "green": 1, "black": 1, "brown": 1 }]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "Yamaha",
+    "model": "C45 Classical",
+    "type": "Acoustic",
+    "price": 2.195,
+    "inStock": 25,
+    "desc": "The Yamaha C45 is an amazing full-sized nylon-string guitar that’s affordable enough for any guitarist. Whether you’re stepping up from a 3/4-size model or looking for a first classical guitar to start off with, you’ll be pleasantly surprised by the C45. Its full 2″ nut allows you to play with true classical finger techniques – just what you need to develop proper playing method. Featuring a real spruce top, on a back and sides made of quality Meranti, the Yamaha C45 provides you with a clear, resonant voice",
+    "availStock": [
+      {
+        "neckLength": 628.65,
+        "qty": 14,
+        "handedness": "left",
+        "variations": [{ "red": 4, "black": 4, "brown": 6 }]
+      },
+      {
+        "neckLength": 610,
+        "qty": 16,
+        "handedness": "right",
+        "variations": [{ "red": 5, "black": 5, "brown": 6 }]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "brand": "Alvarez",
+    "model": "AD60CE",
+    "type": "Acoustic",
+    "price": 12.347,
+    "inStock": 12,
+    "desc": "Back in 2010, the AD60 was the model which our then new design team first focused on. It became the benchmark model, a reference in which other brand's and our previous models were measured. The goal and therefore the whole approach of the team was to simply make the best performing entry level guitar available. In tandem with developing our Artist Series, we were also developing bracing systems such as FST2 at the Yairi workshops, and bracing systems we cut there by hand were reproduced by machine for Artist Series in order to create “our sound” throughout our brand",
+    "availStock": [
+      {
+        "neckLength": 648,
+        "qty": 3,
+        "handedness": "left",
+        "variations": [{ "ivory": 1, "brown": 2 }]
+      },
+      {
+        "neckLength": 648,
+        "qty": 5,
+        "handedness": "right",
+        "variations": [{ "ivory": 2, "brown": 3 }]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "brand": "Gretsch",
+    "model": "G9500 Jim Dandy",
+    "type": "Acoustic",
+    "price": 6.595,
+    "discountPrice": 4.615,
+    "inStock": 5,
+    "desc": "Faithful to the Gretsch “Rex” parlor guitars of the 1930s, ’40s and ’50s, the all-new G9500 Jim Dandy Flat Top parlor-style model embodies everything that was great about everyone’s first guitar. Everything and then some, that is, because the G9500 is crafted with select guitar woods and is fully lined and braced for warm and pleasing tone, with a 24″ scale for endless hours of playing comfort.",
+    "availStock": [
+      {
+        "neckLength": 610,
+        "qty": 12,
+        "handedness": "left",
+        "variations": [{ "red": 4, "black": 4, "brown": 4 }]
+      },
+      {
+        "neckLength": 610,
+        "qty": 13,
+        "handedness": "right",
+        "variations": [{ "red": 3, "black": 1, "brown": 9 }]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "brand": "Cort",
+    "model": "CJ Retro Jumbo",
+    "type": "Acoustic-Electric",
+    "price": 6.995,
+    "discountPrice": 4.825,
+    "inStock": 17,
+    "desc": "The CJ-Retro is a Jumbo-sized acoustic-electric with a huge sound and a cool retro look. Featuring the classic jumbo body with Spruce top and Mahogany back and sides, Fishman electronics with magnetic humbucker and top-mounted controls, and tasteful retro appointments, the CJ-Retro is the perfect acoustic-electric for musicians looking for a big acoustic sound and a snazzy look.",
+    "availStock": [
+      {
+        "neckLength": 648,
+        "qty": 7,
+        "handedness": "left",
+        "variations": [{ "amber": 7 }]
+      },
+      {
+        "neckLength": 648,
+        "qty": 10,
+        "handedness": "right",
+        "variations": [{ "amber": 10 }]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "brand": "Caraya",
+    "model": "F640CE",
+    "type": "Acoustic-Electric",
+    "price": 2.595,
+    "inStock": 30,
+    "desc": "The Caraya F640ce is a traditional dreadnaught body shape with a spruce top, producing fat, warm low end and crisp high end response. An Awesome option for anybody starting to play the acoustic guitar!",
+    "availStock": [
+      {
+        "neckLength": 628,
+        "qty": 14,
+        "handedness": "left",
+        "variations": [{ "black": 10, "brown": 4 }]
+      },
+      {
+        "neckLength": 650,
+        "qty": 16,
+        "handedness": "right",
+        "variations": [{ "black": 6, "brown": 10 }]
+      }
+    ]
+  }
+]
